@@ -103,13 +103,13 @@ class _page0State extends State<page0> {
             fontSize: 30,
           ),
         ),
-        backgroundColor: Colors.lightBlueAccent.shade100,
+        backgroundColor: Colors.lightBlueAccent.shade700,
         elevation: .5,
       ),
       bottomNavigationBar: Container(
         height: 60,
         decoration: BoxDecoration(
-          color: Colors.lightBlueAccent.shade100,
+          color: Colors.lightBlueAccent.shade700,
           borderRadius: BorderRadius.only(
               topRight: Radius.circular(20), topLeft: Radius.circular(20)),
           boxShadow: [
@@ -186,7 +186,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -224,7 +224,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -263,7 +263,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -302,7 +302,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -341,7 +341,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -380,7 +380,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -419,7 +419,7 @@ class _page0State extends State<page0> {
                                 children: [
                                   Container(
                                     decoration: BoxDecoration(
-                                      color: Colors.lightBlueAccent.shade100,
+                                      color: Colors.lightBlueAccent.shade700,
                                       borderRadius: BorderRadius.only(
                                           topRight: Radius.circular(10),
                                           topLeft: Radius.circular(10),
@@ -485,7 +485,7 @@ class _page0State extends State<page0> {
                 ),
               ),
               Container(
-                color: Colors.lightBlueAccent.shade100,
+                color: Colors.lightBlueAccent.shade700,
                 margin: EdgeInsets.only(top: 20),
                 padding: EdgeInsets.only(top: 4, bottom: 4),
                 width: double.infinity,
@@ -504,7 +504,7 @@ class _page0State extends State<page0> {
               ),
               Container(
                 decoration: BoxDecoration(
-                  color: Colors.lightBlueAccent.shade100,
+                  color: Colors.lightBlueAccent.shade700,
                   boxShadow: [
                     BoxShadow(
                       color: Colors.grey,
@@ -532,7 +532,7 @@ class _page0State extends State<page0> {
                 ),
               ),
               Container(
-                color: Colors.lightBlueAccent.shade100,
+                color: Colors.lightBlueAccent.shade700,
                 margin: EdgeInsets.only(top: 20),
                 padding: EdgeInsets.only(top: 4, bottom: 4),
                 width: double.infinity,
@@ -551,7 +551,7 @@ class _page0State extends State<page0> {
               ),
               Container(
                 decoration: BoxDecoration(
-                  color: Colors.lightBlueAccent.shade100,
+                  color: Colors.lightBlueAccent.shade700,
                   boxShadow: [
                     BoxShadow(
                       color: Colors.grey,
@@ -582,7 +582,7 @@ class _page0State extends State<page0> {
                 height: 10,
               ),
               Container(
-                color: Colors.lightBlueAccent.shade100,
+                color: Colors.lightBlueAccent.shade700,
                 margin: EdgeInsets.only(top: 20),
                 padding: EdgeInsets.only(top: 4, bottom: 4),
                 width: double.infinity,
@@ -601,7 +601,7 @@ class _page0State extends State<page0> {
               ),
               Container(
                 decoration: BoxDecoration(
-                  color: Colors.lightBlueAccent.shade100,
+                  color: Colors.lightBlueAccent.shade700,
                   boxShadow: [
                     BoxShadow(
                       color: Colors.grey,
@@ -632,7 +632,7 @@ class _page0State extends State<page0> {
                 height: 10,
               ),
               Container(
-                color: Colors.lightBlueAccent.shade100,
+                color: Colors.lightBlueAccent.shade700,
                 margin: EdgeInsets.only(top: 20),
                 padding: EdgeInsets.only(top: 4, bottom: 4),
                 width: double.infinity,
@@ -654,7 +654,7 @@ class _page0State extends State<page0> {
                   top: 10,
                 ),
                 decoration: BoxDecoration(
-                  color: Colors.lightBlueAccent.shade100,
+                  color: Colors.lightBlueAccent.shade700,
                   boxShadow: [
                     BoxShadow(
                       color: Colors.grey,
@@ -771,7 +771,7 @@ class _page0State extends State<page0> {
                 height: 20,
               ),
               Container(
-                color: Colors.lightBlueAccent.shade100,
+                color: Colors.lightBlueAccent.shade700,
                 margin: EdgeInsets.only(top: 20),
                 padding: EdgeInsets.only(top: 4, bottom: 4),
                 width: double.infinity,
@@ -920,7 +920,7 @@ class _page1State extends State<page1> {
     return Scaffold(
       backgroundColor: Colors.blue.shade50,
       appBar: AppBar(
-        backgroundColor: Colors.lightBlueAccent.shade100,
+        backgroundColor: Colors.lightBlueAccent.shade700,
         centerTitle: true,
         title: Text(
           "My Account",
@@ -930,7 +930,7 @@ class _page1State extends State<page1> {
       bottomNavigationBar: Container(
         height: 60,
         decoration: BoxDecoration(
-          color: Colors.lightBlueAccent.shade100,
+          color: Colors.lightBlueAccent.shade700,
           borderRadius: BorderRadius.only(
               topRight: Radius.circular(20), topLeft: Radius.circular(20)),
           boxShadow: [
@@ -1278,7 +1278,7 @@ class _page2State extends State<page2> {
     return Scaffold(
       backgroundColor: Colors.blue.shade50,
       appBar: AppBar(
-        backgroundColor: Colors.lightBlueAccent.shade100,
+        backgroundColor: Colors.lightBlueAccent.shade700,
         centerTitle: true,
         title: Text(
           "Wishlist",
@@ -1288,7 +1288,7 @@ class _page2State extends State<page2> {
       bottomNavigationBar: Container(
         height: 60,
         decoration: BoxDecoration(
-          color: Colors.lightBlueAccent.shade100,
+          color: Colors.lightBlueAccent.shade700,
           borderRadius: BorderRadius.only(
               topRight: Radius.circular(20), topLeft: Radius.circular(20)),
           boxShadow: [
@@ -2115,7 +2115,7 @@ class _page3State extends State<page3> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.lightBlueAccent.shade100,
+        backgroundColor: Colors.lightBlueAccent.shade700,
         centerTitle: true,
         title: Text(
           "BAG",
@@ -2408,7 +2408,7 @@ class _page4State extends State<page4> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,backgroundColor: Colors.lightBlueAccent.shade100,
+        centerTitle: true,backgroundColor: Colors.lightBlueAccent.shade700,
         title: Text("For Men",style: TextStyle(fontSize: 28,fontFamily:'ChelaOne'),),
       ),
       body: SafeArea(
@@ -3038,7 +3038,7 @@ class _page5State extends State<page5> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,backgroundColor: Colors.lightBlueAccent.shade100,
+        centerTitle: true,backgroundColor: Colors.lightBlueAccent.shade700,
         title: Text("For Women",style: TextStyle(fontSize: 28,fontFamily:'ChelaOne'),),
       ),
       body: SafeArea(
